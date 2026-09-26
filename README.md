@@ -2,7 +2,7 @@
 
 B.Y.T.E Data Science **Task 4**. A reproducible decision-tree classifier with individual SHAP explanations and an interactive, browser-only demo.
 
-Public repository name: **DS_4_DecisionTreeClassifier_byte**. GitHub publication and the Vercel URL are pending account setup.
+[Public GitHub repository](https://github.com/jarrodfranktamargocics-ui/DS_4_DecisionTreeClassifier_byte). Vercel deployment is pending account setup.
 
 ## Dataset
 

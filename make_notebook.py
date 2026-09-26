@@ -4,6 +4,7 @@ import os
 import nbformat
 from nbclient import NotebookClient
 root=Path(__file__).resolve().parent
+(root/'.runtime').mkdir(exist_ok=True)
 os.environ.setdefault('IPYTHONDIR', str(root/'.runtime/ipython'))
 os.environ.setdefault('JUPYTER_RUNTIME_DIR', str(root/'.runtime/jupyter'))
 source=(root/'train.py').read_text(encoding='utf-8')
