@@ -1,0 +1,554 @@
+{
+  "nodes": [
+    {
+      "left": 1,
+      "right": 2,
+      "feature": 48,
+      "threshold": 0.5,
+      "weight": 36168.000000010055,
+      "probability": 0.5000000000000303
+    },
+    {
+      "left": 3,
+      "right": 4,
+      "feature": 33,
+      "threshold": 0.5,
+      "weight": 32597.205865026375,
+      "probability": 0.45262848829248437
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 3570.7941349935927,
+      "probability": 0.9324469182176032
+    },
+    {
+      "left": 5,
+      "right": 6,
+      "feature": 27,
+      "threshold": 0.5,
+      "weight": 25150.873258308562,
+      "probability": 0.5145816262577935
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 7446.332606708728,
+      "probability": 0.2433744026616135
+    },
+    {
+      "left": 13,
+      "right": 14,
+      "feature": 4,
+      "threshold": 369.5,
+      "weight": 10887.060486216104,
+      "probability": 0.4137913884068552
+    },
+    {
+      "left": 7,
+      "right": 8,
+      "feature": 35,
+      "threshold": 0.5,
+      "weight": 14263.812772082276,
+      "probability": 0.5915112265992214
+    },
+    {
+      "left": 9,
+      "right": 10,
+      "feature": 39,
+      "threshold": 0.5,
+      "weight": 10678.35689439043,
+      "probability": 0.6448260612939782
+    },
+    {
+      "left": 11,
+      "right": 12,
+      "feature": 3,
+      "threshold": 1.5,
+      "weight": 3585.455877692468,
+      "probability": 0.43272672274372176
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 8217.925117658026,
+      "probability": 0.7010987383892983
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 2460.431776732511,
+      "probability": 0.45687342187815205
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 763.9452626565529,
+      "probability": 0.6545986309349145
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 2821.5106150359625,
+      "probability": 0.37265323151672436
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 10615.138919141162,
+      "probability": 0.4058694126711233
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 271.9215670753713,
+      "probability": 0.7230455378785081
+    }
+  ],
+  "features": [
+    {
+      "source": "age",
+      "category": null
+    },
+    {
+      "source": "balance",
+      "category": null
+    },
+    {
+      "source": "day",
+      "category": null
+    },
+    {
+      "source": "campaign",
+      "category": null
+    },
+    {
+      "source": "pdays",
+      "category": null
+    },
+    {
+      "source": "previous",
+      "category": null
+    },
+    {
+      "source": "job",
+      "category": "admin."
+    },
+    {
+      "source": "job",
+      "category": "blue-collar"
+    },
+    {
+      "source": "job",
+      "category": "entrepreneur"
+    },
+    {
+      "source": "job",
+      "category": "housemaid"
+    },
+    {
+      "source": "job",
+      "category": "management"
+    },
+    {
+      "source": "job",
+      "category": "retired"
+    },
+    {
+      "source": "job",
+      "category": "self-employed"
+    },
+    {
+      "source": "job",
+      "category": "services"
+    },
+    {
+      "source": "job",
+      "category": "student"
+    },
+    {
+      "source": "job",
+      "category": "technician"
+    },
+    {
+      "source": "job",
+      "category": "unemployed"
+    },
+    {
+      "source": "job",
+      "category": "unknown"
+    },
+    {
+      "source": "marital",
+      "category": "divorced"
+    },
+    {
+      "source": "marital",
+      "category": "married"
+    },
+    {
+      "source": "marital",
+      "category": "single"
+    },
+    {
+      "source": "education",
+      "category": "primary"
+    },
+    {
+      "source": "education",
+      "category": "secondary"
+    },
+    {
+      "source": "education",
+      "category": "tertiary"
+    },
+    {
+      "source": "education",
+      "category": "unknown"
+    },
+    {
+      "source": "default",
+      "category": "no"
+    },
+    {
+      "source": "default",
+      "category": "yes"
+    },
+    {
+      "source": "housing",
+      "category": "no"
+    },
+    {
+      "source": "housing",
+      "category": "yes"
+    },
+    {
+      "source": "loan",
+      "category": "no"
+    },
+    {
+      "source": "loan",
+      "category": "yes"
+    },
+    {
+      "source": "contact",
+      "category": "cellular"
+    },
+    {
+      "source": "contact",
+      "category": "telephone"
+    },
+    {
+      "source": "contact",
+      "category": "unknown"
+    },
+    {
+      "source": "month",
+      "category": "apr"
+    },
+    {
+      "source": "month",
+      "category": "aug"
+    },
+    {
+      "source": "month",
+      "category": "dec"
+    },
+    {
+      "source": "month",
+      "category": "feb"
+    },
+    {
+      "source": "month",
+      "category": "jan"
+    },
+    {
+      "source": "month",
+      "category": "jul"
+    },
+    {
+      "source": "month",
+      "category": "jun"
+    },
+    {
+      "source": "month",
+      "category": "mar"
+    },
+    {
+      "source": "month",
+      "category": "may"
+    },
+    {
+      "source": "month",
+      "category": "nov"
+    },
+    {
+      "source": "month",
+      "category": "oct"
+    },
+    {
+      "source": "month",
+      "category": "sep"
+    },
+    {
+      "source": "poutcome",
+      "category": "failure"
+    },
+    {
+      "source": "poutcome",
+      "category": "other"
+    },
+    {
+      "source": "poutcome",
+      "category": "success"
+    },
+    {
+      "source": "poutcome",
+      "category": "unknown"
+    }
+  ],
+  "schema": [
+    {
+      "name": "age",
+      "default": 39,
+      "min": 18,
+      "max": 95
+    },
+    {
+      "name": "job",
+      "default": "blue-collar",
+      "options": [
+        "admin.",
+        "blue-collar",
+        "entrepreneur",
+        "housemaid",
+        "management",
+        "retired",
+        "self-employed",
+        "services",
+        "student",
+        "technician",
+        "unemployed",
+        "unknown"
+      ]
+    },
+    {
+      "name": "marital",
+      "default": "married",
+      "options": [
+        "divorced",
+        "married",
+        "single"
+      ]
+    },
+    {
+      "name": "education",
+      "default": "secondary",
+      "options": [
+        "primary",
+        "secondary",
+        "tertiary",
+        "unknown"
+      ]
+    },
+    {
+      "name": "default",
+      "default": "no",
+      "options": [
+        "no",
+        "yes"
+      ]
+    },
+    {
+      "name": "balance",
+      "default": 451,
+      "min": -8019,
+      "max": 102127
+    },
+    {
+      "name": "housing",
+      "default": "yes",
+      "options": [
+        "no",
+        "yes"
+      ]
+    },
+    {
+      "name": "loan",
+      "default": "no",
+      "options": [
+        "no",
+        "yes"
+      ]
+    },
+    {
+      "name": "contact",
+      "default": "cellular",
+      "options": [
+        "cellular",
+        "telephone",
+        "unknown"
+      ]
+    },
+    {
+      "name": "day",
+      "default": 16,
+      "min": 1,
+      "max": 31
+    },
+    {
+      "name": "month",
+      "default": "may",
+      "options": [
+        "apr",
+        "aug",
+        "dec",
+        "feb",
+        "jan",
+        "jul",
+        "jun",
+        "mar",
+        "may",
+        "nov",
+        "oct",
+        "sep"
+      ]
+    },
+    {
+      "name": "campaign",
+      "default": 2,
+      "min": 1,
+      "max": 63
+    },
+    {
+      "name": "pdays",
+      "default": -1,
+      "min": -1,
+      "max": 871
+    },
+    {
+      "name": "previous",
+      "default": 0,
+      "min": 0,
+      "max": 275
+    },
+    {
+      "name": "poutcome",
+      "default": "unknown",
+      "options": [
+        "failure",
+        "other",
+        "success",
+        "unknown"
+      ]
+    }
+  ],
+  "metrics": {
+    "accuracy": 0.794426628331306,
+    "precision": 0.29742033383915023,
+    "recall": 0.555765595463138,
+    "f1": 0.3874794069192751,
+    "train_rows": 36168,
+    "test_rows": 9043,
+    "positive_rate": 0.11698480458295547,
+    "baseline_accuracy": 0.8830034280659074,
+    "confusion_matrix": [
+      [
+        6596,
+        1389
+      ],
+      [
+        470,
+        588
+      ]
+    ],
+    "best_params": {
+      "model__class_weight": "balanced",
+      "model__max_depth": 5,
+      "model__min_samples_leaf": 150
+    },
+    "cv_f1": 0.3779370914285898
+  },
+  "importance": [
+    [
+      "poutcome",
+      0.4445514705543877
+    ],
+    [
+      "contact",
+      0.2535508884459269
+    ],
+    [
+      "month",
+      0.14021398506989802
+    ],
+    [
+      "housing",
+      0.11700718246384371
+    ],
+    [
+      "campaign",
+      0.028673260458385724
+    ]
+  ],
+  "base": 0.4999999999999666,
+  "examples": [
+    {
+      "label": "Unlikely subscriber",
+      "input": {
+        "age": 40,
+        "job": "blue-collar",
+        "marital": "married",
+        "education": "primary",
+        "default": "no",
+        "balance": 640,
+        "housing": "yes",
+        "loan": "yes",
+        "contact": "unknown",
+        "day": 8,
+        "month": "may",
+        "campaign": 2,
+        "pdays": -1,
+        "previous": 0,
+        "poutcome": "unknown"
+      }
+    },
+    {
+      "label": "Likely subscriber",
+      "input": {
+        "age": 64,
+        "job": "retired",
+        "marital": "divorced",
+        "education": "primary",
+        "default": "no",
+        "balance": 109,
+        "housing": "no",
+        "loan": "no",
+        "contact": "cellular",
+        "day": 23,
+        "month": "jun",
+        "campaign": 1,
+        "pdays": 225,
+        "previous": 2,
+        "poutcome": "success"
+      }
+    }
+  ],
+  "weighted": true
+}
