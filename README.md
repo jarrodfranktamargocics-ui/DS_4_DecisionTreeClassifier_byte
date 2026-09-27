@@ -14,7 +14,7 @@ An additional training-only study of 12 recall-focused tree configurations is re
 
 B.Y.T.E Data Science **Task 4**. A single decision-tree classifier with SHAP explanations, an executed notebook, evaluation charts, and a browser demo.
 
-[Public repository](https://github.com/jarrodfranktamargocics-ui/DS_4_DecisionTreeClassifier_byte). Deployment instructions are below.
+[Public repository](https://github.com/jarrodfranktamargocics-ui/DS_4_DecisionTreeClassifier_byte). [Live demo](https://ds-4-decision-tree-classifier-byte.vercel.app/). Deployment instructions are below.
 
 ## Dataset and prediction timing
 
