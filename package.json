@@ -1,1 +1,8 @@
-{"name":"bank-mind-reader","private":true,"type":"module","scripts":{"test":"node tests/model.test.mjs"}}
+{
+  "name": "bank-subscription-predictor",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node tests/model.test.mjs"
+  }
+}

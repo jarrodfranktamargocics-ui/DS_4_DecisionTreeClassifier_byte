@@ -1,0 +1,34 @@
+{
+  "accuracy": 0.8340152604224262,
+  "precision": 0.35418038183015144,
+  "recall": 0.5085066162570888,
+  "f1": 0.4175397749320916,
+  "train_rows": 36168,
+  "test_rows": 9043,
+  "positive_rate": 0.11698480458295547,
+  "baseline_accuracy": 0.8830034280659074,
+  "confusion_matrix": [
+    [
+      7004,
+      981
+    ],
+    [
+      520,
+      538
+    ]
+  ],
+  "best_params": {
+    "model__class_weight": "balanced",
+    "model__criterion": "entropy",
+    "model__max_depth": 6,
+    "model__max_leaf_nodes": 32,
+    "model__min_samples_leaf": 50
+  },
+  "cv_average_precision": 0.34207679093236365,
+  "oof_tuning_f1": 0.41648759523344403,
+  "decision_threshold": 0.7352944500151807,
+  "average_precision": 0.3531748598993525,
+  "roc_auc": 0.7571350701279456,
+  "leaves": 32,
+  "depth": 6
+}

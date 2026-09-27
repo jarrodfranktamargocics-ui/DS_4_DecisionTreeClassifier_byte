@@ -1,0 +1,24 @@
+{
+  "winner": {
+    "name": "expanded_28",
+    "params": {
+      "min_samples_leaf": 20,
+      "max_leaf_nodes": 128,
+      "max_depth": 12,
+      "criterion": "entropy",
+      "class_weight": {
+        "0": 1,
+        "1": 4
+      },
+      "ccp_alpha": 0.0005
+    },
+    "tuned": true,
+    "indicator": true
+  },
+  "threshold": 0.579185520361991,
+  "mean_validation_f1": 0.4736076176290454,
+  "incumbent_validation_f1": 0.41587082825496563,
+  "csv_sha256": "d1513ec63b385506f7cfce9f2c5caa9fe99e7ba4e8c3fa264b3aaf0f849ed32d",
+  "training_indices_sha256": "b078ac348228f8e49c30af463dc1198fb5e8e11d6379e5d842caf580fc728469",
+  "selection_bias_note": "Outer folds are used to choose among 55 candidates; the winning mean is a selection score, not an unbiased final estimate. Existing test split has been inspected before."
+}

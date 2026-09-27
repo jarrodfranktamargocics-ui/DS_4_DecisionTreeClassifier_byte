@@ -2,123 +2,907 @@
   "nodes": [
     {
       "left": 1,
-      "right": 2,
-      "feature": 48,
+      "right": 110,
+      "feature": 49,
       "threshold": 0.5,
-      "weight": 36168.000000010055,
-      "probability": 0.5000000000000303
+      "weight": 48861.0,
+      "probability": 0.34637031579378236
+    },
+    {
+      "left": 2,
+      "right": 89,
+      "feature": 34,
+      "threshold": 0.5,
+      "weight": 45319.0,
+      "probability": 0.30468456938590877
     },
     {
       "left": 3,
-      "right": 4,
-      "feature": 33,
+      "right": 60,
+      "feature": 29,
       "threshold": 0.5,
-      "weight": 32597.205865026375,
-      "probability": 0.45262848829248437
+      "weight": 33673.0,
+      "probability": 0.35969471089597005
     },
     {
-      "left": -1,
-      "right": -1,
-      "feature": -2,
-      "threshold": -2.0,
-      "weight": 3570.7941349935927,
-      "probability": 0.9324469182176032
+      "left": 4,
+      "right": 41,
+      "feature": 36,
+      "threshold": 0.5,
+      "weight": 18186.0,
+      "probability": 0.4341801385681293
     },
     {
       "left": 5,
-      "right": 6,
-      "feature": 27,
+      "right": 30,
+      "feature": 40,
       "threshold": 0.5,
-      "weight": 25150.873258308562,
-      "probability": 0.5145816262577935
+      "weight": 13142.0,
+      "probability": 0.49033632628214885
     },
     {
-      "left": -1,
-      "right": -1,
-      "feature": -2,
-      "threshold": -2.0,
-      "weight": 7446.332606708728,
-      "probability": 0.2433744026616135
-    },
-    {
-      "left": 13,
-      "right": 14,
-      "feature": 4,
-      "threshold": 369.5,
-      "weight": 10887.060486216104,
-      "probability": 0.4137913884068552
+      "left": 6,
+      "right": 25,
+      "feature": 44,
+      "threshold": 0.5,
+      "weight": 9730.0,
+      "probability": 0.5541623843782117
     },
     {
       "left": 7,
-      "right": 8,
-      "feature": 35,
+      "right": 20,
+      "feature": 39,
       "threshold": 0.5,
-      "weight": 14263.812772082276,
-      "probability": 0.5915112265992214
+      "weight": 7998.0,
+      "probability": 0.6006501625406352
+    },
+    {
+      "left": 8,
+      "right": 15,
+      "feature": 38,
+      "threshold": 0.5,
+      "weight": 7133.0,
+      "probability": 0.6359175662414132
     },
     {
       "left": 9,
       "right": 10,
-      "feature": 39,
+      "feature": 43,
       "threshold": 0.5,
-      "weight": 10678.35689439043,
-      "probability": 0.6448260612939782
+      "weight": 5447.0,
+      "probability": 0.6895538828713053
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 4472.0,
+      "probability": 0.7307692307692307
     },
     {
       "left": 11,
-      "right": 12,
+      "right": 14,
+      "feature": 2,
+      "threshold": 18.5,
+      "weight": 975.0,
+      "probability": 0.5005128205128205
+    },
+    {
+      "left": 12,
+      "right": 13,
+      "feature": 1,
+      "threshold": 227.0,
+      "weight": 530.0,
+      "probability": 0.39245283018867927
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 153.0,
+      "probability": 0.1830065359477124
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 377.0,
+      "probability": 0.47745358090185674
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 445.0,
+      "probability": 0.6292134831460674
+    },
+    {
+      "left": 16,
+      "right": 19,
+      "feature": 2,
+      "threshold": 9.5,
+      "weight": 1686.0,
+      "probability": 0.4626334519572954
+    },
+    {
+      "left": 17,
+      "right": 18,
+      "feature": 1,
+      "threshold": 1620.5,
+      "weight": 1237.0,
+      "probability": 0.3330638641875505
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 929.0,
+      "probability": 0.2798708288482239
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 308.0,
+      "probability": 0.4935064935064935
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 449.0,
+      "probability": 0.8195991091314031
+    },
+    {
+      "left": 21,
+      "right": 22,
+      "feature": 2,
+      "threshold": 27.5,
+      "weight": 865.0,
+      "probability": 0.30982658959537573
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 183.0,
+      "probability": 0.7213114754098361
+    },
+    {
+      "left": 23,
+      "right": 24,
+      "feature": 31,
+      "threshold": 0.5,
+      "weight": 682.0,
+      "probability": 0.19941348973607037
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 603.0,
+      "probability": 0.22553897180762852
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 79.0,
+      "probability": 0.0
+    },
+    {
+      "left": 26,
+      "right": 27,
+      "feature": 2,
+      "threshold": 16.5,
+      "weight": 1732.0,
+      "probability": 0.3394919168591224
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 357.0,
+      "probability": 0.7282913165266106
+    },
+    {
+      "left": 28,
+      "right": 29,
+      "feature": 3,
+      "threshold": 4.5,
+      "weight": 1375.0,
+      "probability": 0.23854545454545453
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 1312.0,
+      "probability": 0.25
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 63.0,
+      "probability": 0.0
+    },
+    {
+      "left": 31,
+      "right": 40,
+      "feature": 4,
+      "threshold": 82.5,
+      "weight": 3412.0,
+      "probability": 0.3083235638921454
+    },
+    {
+      "left": 32,
+      "right": 33,
+      "feature": 2,
+      "threshold": 3.5,
+      "weight": 3204.0,
+      "probability": 0.27715355805243447
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 117.0,
+      "probability": 0.8205128205128205
+    },
+    {
+      "left": 34,
+      "right": 37,
+      "feature": 20,
+      "threshold": 0.5,
+      "weight": 3087.0,
+      "probability": 0.2565597667638484
+    },
+    {
+      "left": 35,
+      "right": 36,
+      "feature": 1,
+      "threshold": 100.5,
+      "weight": 1414.0,
+      "probability": 0.33663366336633666
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 535.0,
+      "probability": 0.22429906542056074
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 879.0,
+      "probability": 0.4050056882821388
+    },
+    {
+      "left": 38,
+      "right": 39,
+      "feature": 0,
+      "threshold": 61.5,
+      "weight": 1673.0,
+      "probability": 0.18888224745965332
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 1628.0,
+      "probability": 0.17444717444717445
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 45.0,
+      "probability": 0.7111111111111111
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 208.0,
+      "probability": 0.7884615384615384
+    },
+    {
+      "left": 42,
+      "right": 43,
       "feature": 3,
       "threshold": 1.5,
-      "weight": 3585.455877692468,
-      "probability": 0.43272672274372176
+      "weight": 5044.0,
+      "probability": 0.28786677240285485
     },
     {
       "left": -1,
       "right": -1,
       "feature": -2,
       "threshold": -2.0,
-      "weight": 8217.925117658026,
-      "probability": 0.7010987383892983
+      "weight": 934.0,
+      "probability": 0.5010706638115632
+    },
+    {
+      "left": 44,
+      "right": 51,
+      "feature": 2,
+      "threshold": 18.5,
+      "weight": 4110.0,
+      "probability": 0.23941605839416058
+    },
+    {
+      "left": 45,
+      "right": 50,
+      "feature": 4,
+      "threshold": 23.0,
+      "weight": 2118.0,
+      "probability": 0.311614730878187
+    },
+    {
+      "left": 46,
+      "right": 49,
+      "feature": 0,
+      "threshold": 59.5,
+      "weight": 2030.0,
+      "probability": 0.2975369458128079
+    },
+    {
+      "left": 47,
+      "right": 48,
+      "feature": 0,
+      "threshold": 57.5,
+      "weight": 1886.0,
+      "probability": 0.2799575821845175
     },
     {
       "left": -1,
       "right": -1,
       "feature": -2,
       "threshold": -2.0,
-      "weight": 2460.431776732511,
-      "probability": 0.45687342187815205
+      "weight": 1788.0,
+      "probability": 0.2930648769574944
     },
     {
       "left": -1,
       "right": -1,
       "feature": -2,
       "threshold": -2.0,
-      "weight": 763.9452626565529,
-      "probability": 0.6545986309349145
+      "weight": 98.0,
+      "probability": 0.04081632653061224
     },
     {
       "left": -1,
       "right": -1,
       "feature": -2,
       "threshold": -2.0,
-      "weight": 2821.5106150359625,
-      "probability": 0.37265323151672436
+      "weight": 144.0,
+      "probability": 0.5277777777777778
     },
     {
       "left": -1,
       "right": -1,
       "feature": -2,
       "threshold": -2.0,
-      "weight": 10615.138919141162,
-      "probability": 0.4058694126711233
+      "weight": 88.0,
+      "probability": 0.6363636363636364
+    },
+    {
+      "left": 52,
+      "right": 59,
+      "feature": 4,
+      "threshold": 87.0,
+      "weight": 1992.0,
+      "probability": 0.16265060240963855
+    },
+    {
+      "left": 53,
+      "right": 58,
+      "feature": 2,
+      "threshold": 27.5,
+      "weight": 1939.0,
+      "probability": 0.14646725116039194
+    },
+    {
+      "left": 54,
+      "right": 55,
+      "feature": 1,
+      "threshold": 14.5,
+      "weight": 1522.0,
+      "probability": 0.17082785808147175
     },
     {
       "left": -1,
       "right": -1,
       "feature": -2,
       "threshold": -2.0,
-      "weight": 271.9215670753713,
-      "probability": 0.7230455378785081
+      "weight": 366.0,
+      "probability": 0.06557377049180328
+    },
+    {
+      "left": 56,
+      "right": 57,
+      "feature": 30,
+      "threshold": 0.5,
+      "weight": 1156.0,
+      "probability": 0.2041522491349481
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 75.0,
+      "probability": 0.0
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 1081.0,
+      "probability": 0.2183163737280296
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 417.0,
+      "probability": 0.05755395683453238
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 53.0,
+      "probability": 0.7547169811320755
+    },
+    {
+      "left": 61,
+      "right": 88,
+      "feature": 4,
+      "threshold": 374.5,
+      "weight": 15487.0,
+      "probability": 0.2722283205268935
+    },
+    {
+      "left": 62,
+      "right": 87,
+      "feature": 42,
+      "threshold": 0.5,
+      "weight": 15313.0,
+      "probability": 0.26617906354078236
+    },
+    {
+      "left": 63,
+      "right": 86,
+      "feature": 41,
+      "threshold": 0.5,
+      "weight": 15136.0,
+      "probability": 0.26030655391120505
+    },
+    {
+      "left": 64,
+      "right": 85,
+      "feature": 45,
+      "threshold": 0.5,
+      "weight": 14893.0,
+      "probability": 0.25327334989592426
+    },
+    {
+      "left": 65,
+      "right": 84,
+      "feature": 0,
+      "threshold": 62.5,
+      "weight": 14706.0,
+      "probability": 0.24751801985584115
+    },
+    {
+      "left": 66,
+      "right": 75,
+      "feature": 21,
+      "threshold": 0.5,
+      "weight": 14642.0,
+      "probability": 0.24477530392022948
+    },
+    {
+      "left": 67,
+      "right": 70,
+      "feature": 1,
+      "threshold": 1381.0,
+      "weight": 10444.0,
+      "probability": 0.22060513213328226
+    },
+    {
+      "left": 68,
+      "right": 69,
+      "feature": 33,
+      "threshold": 0.5,
+      "weight": 7819.0,
+      "probability": 0.1990024299782581
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 7238.0,
+      "probability": 0.20613429124067423
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 581.0,
+      "probability": 0.11015490533562823
+    },
+    {
+      "left": 71,
+      "right": 74,
+      "feature": 4,
+      "threshold": 350.5,
+      "weight": 2625.0,
+      "probability": 0.28495238095238096
+    },
+    {
+      "left": 72,
+      "right": 73,
+      "feature": 44,
+      "threshold": 0.5,
+      "weight": 2568.0,
+      "probability": 0.29127725856697817
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 1886.0,
+      "probability": 0.32237539766702017
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 682.0,
+      "probability": 0.20527859237536658
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 57.0,
+      "probability": 0.0
+    },
+    {
+      "left": 76,
+      "right": 81,
+      "feature": 2,
+      "threshold": 27.5,
+      "weight": 4198.0,
+      "probability": 0.3049070986183897
+    },
+    {
+      "left": 77,
+      "right": 80,
+      "feature": 2,
+      "threshold": 22.5,
+      "weight": 3852.0,
+      "probability": 0.31879543094496365
+    },
+    {
+      "left": 78,
+      "right": 79,
+      "feature": 3,
+      "threshold": 6.5,
+      "weight": 3571.0,
+      "probability": 0.3024362923550826
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 3472.0,
+      "probability": 0.3099078341013825
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 99.0,
+      "probability": 0.04040404040404041
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 281.0,
+      "probability": 0.5266903914590747
+    },
+    {
+      "left": 82,
+      "right": 83,
+      "feature": 35,
+      "threshold": 0.5,
+      "weight": 346.0,
+      "probability": 0.15028901734104047
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 301.0,
+      "probability": 0.0664451827242525
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 45.0,
+      "probability": 0.7111111111111111
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 64.0,
+      "probability": 0.875
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 187.0,
+      "probability": 0.7058823529411765
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 243.0,
+      "probability": 0.691358024691358
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 177.0,
+      "probability": 0.768361581920904
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 174.0,
+      "probability": 0.8045977011494253
+    },
+    {
+      "left": 90,
+      "right": 101,
+      "feature": 20,
+      "threshold": 0.5,
+      "weight": 11646.0,
+      "probability": 0.1456294006525846
+    },
+    {
+      "left": 91,
+      "right": 100,
+      "feature": 2,
+      "threshold": 29.5,
+      "weight": 4646.0,
+      "probability": 0.19199311235471372
+    },
+    {
+      "left": 92,
+      "right": 97,
+      "feature": 43,
+      "threshold": 0.5,
+      "weight": 4422.0,
+      "probability": 0.18181818181818182
+    },
+    {
+      "left": 93,
+      "right": 96,
+      "feature": 0,
+      "threshold": 30.5,
+      "weight": 1743.0,
+      "probability": 0.22030981067125646
+    },
+    {
+      "left": 94,
+      "right": 95,
+      "feature": 1,
+      "threshold": 958.0,
+      "weight": 402.0,
+      "probability": 0.3283582089552239
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 331.0,
+      "probability": 0.3867069486404834
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 71.0,
+      "probability": 0.056338028169014086
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 1341.0,
+      "probability": 0.18791946308724833
+    },
+    {
+      "left": 98,
+      "right": 99,
+      "feature": 1,
+      "threshold": 380.5,
+      "weight": 2679.0,
+      "probability": 0.15677491601343785
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 1473.0,
+      "probability": 0.11676849966055669
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 1206.0,
+      "probability": 0.20563847429519072
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 224.0,
+      "probability": 0.39285714285714285
+    },
+    {
+      "left": 102,
+      "right": 109,
+      "feature": 43,
+      "threshold": 0.5,
+      "weight": 7000.0,
+      "probability": 0.11485714285714285
+    },
+    {
+      "left": 103,
+      "right": 106,
+      "feature": 41,
+      "threshold": 0.5,
+      "weight": 2847.0,
+      "probability": 0.1517386722866175
+    },
+    {
+      "left": 104,
+      "right": 105,
+      "feature": 40,
+      "threshold": 0.5,
+      "weight": 275.0,
+      "probability": 0.32
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 141.0,
+      "probability": 0.5390070921985816
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 134.0,
+      "probability": 0.08955223880597014
+    },
+    {
+      "left": 107,
+      "right": 108,
+      "feature": 0,
+      "threshold": 36.5,
+      "weight": 2572.0,
+      "probability": 0.13374805598755832
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 543.0,
+      "probability": 0.22099447513812154
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 2029.0,
+      "probability": 0.11039921143420404
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 4153.0,
+      "probability": 0.0895738020707922
+    },
+    {
+      "left": 111,
+      "right": 112,
+      "feature": 28,
+      "threshold": 0.5,
+      "weight": 3542.0,
+      "probability": 0.8797289666854884
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 964.0,
+      "probability": 0.8174273858921162
+    },
+    {
+      "left": -1,
+      "right": -1,
+      "feature": -2,
+      "threshold": -2.0,
+      "weight": 2578.0,
+      "probability": 0.9030256012412723
     }
   ],
   "features": [
@@ -144,6 +928,10 @@
     },
     {
       "source": "previous",
+      "category": null
+    },
+    {
+      "source": "previously_contacted",
       "category": null
     },
     {
@@ -460,57 +1248,70 @@
     }
   ],
   "metrics": {
-    "accuracy": 0.794426628331306,
-    "precision": 0.29742033383915023,
-    "recall": 0.555765595463138,
-    "f1": 0.3874794069192751,
+    "accuracy": 0.8761472962512441,
+    "precision": 0.4721223021582734,
+    "recall": 0.4962192816635161,
+    "f1": 0.4838709677419355,
     "train_rows": 36168,
     "test_rows": 9043,
     "positive_rate": 0.11698480458295547,
     "baseline_accuracy": 0.8830034280659074,
     "confusion_matrix": [
       [
-        6596,
-        1389
+        7398,
+        587
       ],
       [
-        470,
-        588
+        533,
+        525
       ]
     ],
     "best_params": {
-      "model__class_weight": "balanced",
-      "model__max_depth": 5,
-      "model__min_samples_leaf": 150
+      "min_samples_leaf": 20,
+      "max_leaf_nodes": 128,
+      "max_depth": 12,
+      "criterion": "entropy",
+      "class_weight": {
+        "0": 1,
+        "1": 4
+      },
+      "ccp_alpha": 0.0005
     },
-    "cv_f1": 0.3779370914285898
+    "validation_f1": 0.4736076176290454,
+    "incumbent_validation_f1": 0.41587082825496563,
+    "selected_candidate": "expanded_28",
+    "decision_threshold": 0.579185520361991,
+    "average_precision": 0.41006218496733937,
+    "roc_auc": 0.7828591060980359,
+    "leaves": 57,
+    "depth": 12
   },
   "importance": [
     [
       "poutcome",
-      0.4445514705543877
-    ],
-    [
-      "contact",
-      0.2535508884459269
+      0.3255151065624472
     ],
     [
       "month",
-      0.14021398506989802
+      0.23132849774722494
+    ],
+    [
+      "contact",
+      0.14458537684606215
+    ],
+    [
+      "day",
+      0.09151635105445106
     ],
     [
       "housing",
-      0.11700718246384371
-    ],
-    [
-      "campaign",
-      0.028673260458385724
+      0.06957879306103312
     ]
   ],
-  "base": 0.4999999999999666,
+  "base": 0.34637031579378236,
   "examples": [
     {
-      "label": "Unlikely subscriber",
+      "label": "Predicted non-subscriber",
       "input": {
         "age": 40,
         "job": "blue-collar",
@@ -530,7 +1331,7 @@
       }
     },
     {
-      "label": "Likely subscriber",
+      "label": "Predicted subscriber",
       "input": {
         "age": 64,
         "job": "retired",
@@ -550,5 +1351,6 @@
       }
     }
   ],
-  "weighted": true
+  "weighted": true,
+  "decision_threshold": 0.579185520361991
 }
